@@ -1,12 +1,13 @@
 🎯 Number Guessing Game (C)
-📖 Overview
+📖 Overview :
 
 The Number Guessing Game is a console-based application developed in C that challenges the user to guess a predefined secret number within a limited number of attempts.
 The program provides real-time hints after each guess and clearly communicates success or failure based on the user’s performance.
 
 This project demonstrates the practical application of control structures, loops, and user input handling in C programming.
 
-🎯 Objective
+
+🎯 Objective:
 
 The objective of this project is to:
 
@@ -18,7 +19,8 @@ The objective of this project is to:
 
 ✅ Determine and display a clear win or loss outcome
 
-⭐ Features
+
+⭐ Features :
 
 🔐 Fixed secret number
 
@@ -30,7 +32,8 @@ The objective of this project is to:
 
 🖥️ Simple and user-friendly console interface
 
-🔄 Program Flow
+
+🔄 Program Flow:
 
 🔢 A secret number is stored in the program
 
@@ -46,7 +49,8 @@ The objective of this project is to:
 
 📢 The final result (Win / Lose) is displayed
 
-🧮 Algorithm
+
+🧮 Algorithm :
 
 🟢 Initialize the secret number
 
@@ -64,7 +68,8 @@ The objective of this project is to:
 
 🛑 End the game after win or loss
 
-🛠️ Technologies Used
+
+🛠️ Technologies Used :
 
 💻 Language: C
 
@@ -74,7 +79,8 @@ The objective of this project is to:
 
 🌐 Version Control: GitHub
 
-📚 Learning Outcomes
+
+📚 Learning Outcomes :
 
 Through this project, I gained:
 
@@ -88,7 +94,8 @@ Through this project, I gained:
 
 🚀 Confidence in building basic interactive programs
 
-🎯 Use Case
+
+🎯 Use Case :
 
 This project is ideal for:
 

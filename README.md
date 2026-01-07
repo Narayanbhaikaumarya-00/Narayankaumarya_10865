@@ -7,9 +7,9 @@ The program provides real-time hints after each guess and clearly communicates s
 This project demonstrates the practical application of control structures, loops, and user input handling in C programming.
 
 
-🎯 Objective:
+🎯 Objective :
 
-The objective of this project is to:
+The objective of this project is to :
 
 🎮 Implement an interactive game using C
 
@@ -33,7 +33,7 @@ The objective of this project is to:
 🖥️ Simple and user-friendly console interface
 
 
-🔄 Program Flow:
+🔄 Program Flow :
 
 🔢 A secret number is stored in the program
 
@@ -82,7 +82,7 @@ The objective of this project is to:
 
 📚 Learning Outcomes :
 
-Through this project, I gained:
+Through this project, I gained :
 
 🧠 Experience with loops and conditional statements
 
@@ -97,7 +97,7 @@ Through this project, I gained:
 
 🎯 Use Case :
 
-This project is ideal for:
+This project is ideal for :
 
 👨‍🎓 Beginners learning C programming
 
@@ -107,4 +107,7 @@ This project is ideal for:
 
 🎮 Practicing logic-building through simple games
 
-  output: [output.c.pdf](https://github.com/user-attachments/files/24434128/output.c.pdf)
+  output : 
+
+  <img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/f5e03723-7adb-4f54-9ea6-57f3a10ad2a7" />
+
